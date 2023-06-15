@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/vladyslav-isariev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     <a href="https://leetcode.com/vladsw764/" target="_blank">
-    <img src=" https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="25"/>
+    <img src=" https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   </a>
   <a href="mailto:vladsw764@icloud.com" target="_blank">
