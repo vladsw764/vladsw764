@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm Java Developer from Ukraine🇺🇦<br><br>- 📚 I'm currently learning English🇺🇸, Docker🐳 and Microservice Architecture.</p>
+<p align="left">I'm Java Developer from Ukraine🇺🇦<br><br>- 📚 I'm currently learning English🇺🇸, Docker🐳 and Redis.</p>
 
 ###
 
