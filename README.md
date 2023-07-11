@@ -29,23 +29,23 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello, I'm Vladyslav I.👋🏻</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">🧑‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Java Developer from Ukraine🇺🇦<br><br>- 📚 I'm currently learning English🇺🇸, Docker🐳 and Redis.</p>
+<p align="center">I'm Java Developer from Ukraine🇺🇦<br><br>- 📚 I'm currently learning English🇺🇸, Docker🐳 and Redis.</p>
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="center">🛠 Languages and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
