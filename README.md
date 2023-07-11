@@ -32,7 +32,7 @@
 <h1 align="center">Hello, I'm Vladyslav I.👋🏻</h1>
 
 ###
-
+<!--
 <h3 align="center">🧑‍💻 About Me</h3>
 
 ###
@@ -40,7 +40,7 @@
 <p align="left">I'm Java Developer from Ukraine🇺🇦<br><br>- 📚 I'm currently learning English🇺🇸, Docker🐳 and Redis.</p>
 
 ###
-
+-->
 <h3 align="center">🛠 Languages and tools</h3>
 
 ###
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
